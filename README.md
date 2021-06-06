@@ -1,2 +1,2 @@
 # C-First-Steps
-Starting to learn C language to university.
+Starting to learn C language to college.
