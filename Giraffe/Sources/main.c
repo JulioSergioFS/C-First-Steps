@@ -4,10 +4,18 @@
 int main()
 {
 
-    int age = 40;
-    double gpa = 3.6;
-    char grade = 'A';
-    char phrase[] = "Giraffe Academy";
+    printf("%f\n", 5 + 4.5);
+    printf("%d\n", 5 / 4);
+    printf("%f\n", 5 / 4.0);
+    printf("\n");
+    printf("%d\n", pow(2, 3));
+    printf("%f\n", pow(2, 3));
+    printf("\n");
+    printf("%d\n", sqrt(4));
+    printf("%f\n", sqrt(4));
+    printf("\n");
+    printf("%f\n", ceil(33.437));
+    printf("%f\n", floor(33.437));
 
     return 0;
 }
