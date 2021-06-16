@@ -4,10 +4,11 @@
 int main()
 {
 
-    /* 
-        Blablabla none of this is gettting read hahaha
-    */
-    printf("Comments are fun");
+    /* usually const values have their name in uppercase */
+    const int NUMBER = 10;
+    /* this is also technically a const: */
+    printf("Hello");
+    /* because the value inside the printf cannot be modified*/
 
     return 0;
 }
