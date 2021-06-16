@@ -4,18 +4,10 @@
 int main()
 {
 
-    printf("%f\n", 5 + 4.5);
-    printf("%d\n", 5 / 4);
-    printf("%f\n", 5 / 4.0);
-    printf("\n");
-    printf("%d\n", pow(2, 3));
-    printf("%f\n", pow(2, 3));
-    printf("\n");
-    printf("%d\n", sqrt(4));
-    printf("%f\n", sqrt(4));
-    printf("\n");
-    printf("%f\n", ceil(33.437));
-    printf("%f\n", floor(33.437));
+    /* 
+        Blablabla none of this is gettting read hahaha
+    */
+    printf("Comments are fun");
 
     return 0;
 }
