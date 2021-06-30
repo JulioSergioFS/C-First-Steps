@@ -3,8 +3,6 @@
 
 int main()
 {
-    //Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
-
     int i;
     float num1, num2, num3, result;
 

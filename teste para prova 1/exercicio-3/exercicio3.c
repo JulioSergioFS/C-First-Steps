@@ -3,10 +3,6 @@
 
 int main()
 {
-    // Faça um programa que receba dois números, calcule e mostre a divisão do.
-    // primeiro número pelo segundo. Sabe-se que o segundo número não pode ser
-    // zero, portanto, será necessário fazer a validações.
-
     float num1, num2;
 
     printf("Digite um número: ");

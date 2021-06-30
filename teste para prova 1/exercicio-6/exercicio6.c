@@ -3,11 +3,6 @@
 
 int main()
 {
-    //Faça um programa que receba o raio, calcule e mostre:
-    //a) o comprimento de uma esfera;
-    //b) a área de uma esfera; 
-    //c) o volume de uma esfera;
-
     float raio;
     float pi = 3.141592653589793238;
 

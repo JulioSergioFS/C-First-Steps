@@ -3,19 +3,6 @@
 
 int main()
 {
-    // Faça um programa que receba a idade de oito pessoas calcule e mostre:
-    // a) a quantidade de pessoas em cada faixa etária;
-    // b) a porcentagem de pessoas na primeira faixa etária com relação ao total de pessoas.
-    // c) a porcentagem de pessoas na última faixa etária com relação ao total de pessoas
-    //
-    // A tabela para classificação da idade em cada faixa etária é:
-    // Faixa etária Idade
-    // 1ª 	Até 15 anos
-    // 2ª 	De 16 a 30 anos
-    // 3ª 	De 31 a 45 anos
-    // 4ª 	De 46 a 60 anos
-    // 5ª 	Acima de 60 anos
-
     int idadeAtual, i;
     int ate15=0, entre16e30=0, entre31e45=0, entre46e60=0, acima60=0;
     float porcentagem1, porcentagem2;

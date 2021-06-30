@@ -3,8 +3,6 @@
 
 int main()
 {
-    //Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo
-
     float num1, num2;
 
     printf("Digite um número: ");

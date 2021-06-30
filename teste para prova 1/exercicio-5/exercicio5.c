@@ -3,10 +3,6 @@
 
 int main()
 {
-    // Faça um programa que receba o número de notas que o usuário digitar.
-    // Calcule e mostre a média ponderada dessas notas. O usuário deverá entrar
-    // com o peso de cada uma das notas que ele digitou. No final esta média deverá ser mostrada.
-
     float notaAtual, mediaP, numerador=0, denomimador=0, pesoAtual;
     char parar = 'n';
 
