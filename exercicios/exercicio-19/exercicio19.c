@@ -8,9 +8,7 @@ int main()
     printf("Qual o tamanho dos vetores? ");
     scanf("%d", &tamanhoDosVetores);
 
-    int vetor1[1000];
-    int vetor2[1000];
-    int vetorComASoma[1000];
+    int vetor1[1000], vetor2[1000], resultadoFinal;
 
     for (i = 0; i < tamanhoDosVetores; i++)
     {
@@ -28,8 +26,9 @@ int main()
 
     for (i = 0; i < tamanhoDosVetores; i++)
     {
-        vetorComASoma[i] = vetor1[i] + vetor2[i];
-        printf("%d  ", vetorComASoma[i]);
+        resultadoFinal += vetor1[i] * vetor2[i];
     }
+
+    printf("O resultado final é %d.\n", resultadoFinal);
     return 0;
 }
